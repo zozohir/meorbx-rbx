@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://meorbx-rbx.netlify.app/sitemap.xml
