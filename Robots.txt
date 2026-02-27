@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://meorbx-rbx.netlify.app/sitemap.xml
+Sitemap: https://meorbx-rbx.vercel.app/sitemap.xml
